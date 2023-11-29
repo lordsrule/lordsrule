@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @lordsrule
 - 👀 I'm interested in learning new things especially in the field of telecommunications and coding
-- 🌱 I'm currently learning about telecommunication and coding materials
-- 💞️ I would like to collaborate on all projects
+- 🌱 I'm currently learning about telecommunications and coding, also creating an ai that can detect objects.
+- 💞️ I would like to collaborate on all projects, especially in the field of telecommunications and also look for certifications 
 - 📫 How to contact me is on my profile
 
 <!---
